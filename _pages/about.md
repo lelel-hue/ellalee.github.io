@@ -10,6 +10,7 @@ redirect_from:
 ## Introduction
 
 I'm now a final-year undergraduate majoring in Data Science at the Southern University of Science and Technology (SUSTech, Shenzhen, China). Throughout my undergraduate studies, I have engaged in various projects, particularly in large language models (LLMs), interdisciplinary AI, and multimodal learning.
+
 As a passionate person, I am sunny and cheerful, have done many volunteer services, and have strong leadership skills. I devote wholeheartedly to my field of interest, and have good enthusiasm and passion.
 
 <p align="center">
@@ -78,6 +79,7 @@ As a passionate person, I am sunny and cheerful, have done many volunteer servic
 - Focused on Science in High School
 - Outstanding Student Award for Three Consecutive Years
 - Leader of School String Orchestra
+
 
 
 
