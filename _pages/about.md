@@ -13,23 +13,22 @@ I'm now a final-year undergraduate majoring in Data Science at the Southern Univ
 As a passionate person, I am sunny and cheerful, have done many volunteer services, and have strong leadership skills. I devote wholeheartedly to my field of interest, and have good enthusiasm and passion.
 
 <p align="center">
-  <img src="/ellalee.github.io/images/givingatalk.jpg" alt="Me giving talk" title="Me giving talk" width="60%">
+  <img src="/ellalee.github.io/images/givingatalk.jpg" alt="Me giving talk" title="Me giving talk" width="75%">
 </p>
 
-Me giving talk
+<p align="center"><strong>Me giving talk</strong></p>
 
 <p align="center">
-  <img src="/ellalee.github.io/images/givingapresentation.jpg" alt="Me giving presentation" title="Me giving presentation" width="60%">
+  <img src="/ellalee.github.io/images/givingapresentation.jpg" alt="Me giving presentation" title="Me giving presentation" width="75%">
 </p>
 
-Me giving presentation
+<p align="center"><strong>Me giving presentation</strong></p>
 
 <p align="center">
-  <img src="/ellalee.github.io/images/withwolunteers.jpg" alt="Me with friends" title="Me with friends" width="60%">
+  <img src="/ellalee.github.io/images/withwolunteers.jpg" alt="Me with friends" title="Me with friends" width="75%">
 </p>
 
-Me with Friends
-
+<p align="center"><strong>Me with Friends</strong></p>
 ## Background
 
 **Bachelor of Science in Data Science Big Data Technology**  
@@ -79,6 +78,7 @@ Me with Friends
 - Focused on Science in High School
 - Outstanding Student Award for Three Consecutive Years
 - Leader of School String Orchestra
+
 
 
 
