@@ -42,7 +42,7 @@ author_profile: true
 - Applied neural networks, swarm intelligence, statistical methods, data science, and visualization.
 - Completed in only three days.
 
-<embed src="/files/MCM.pdf" width="500" height="375" type="application/pdf">
+<embed src="/ellalee.github.io/files/MCM.pdf" width="500" height="375" type="application/pdf">
 
 ---
 
@@ -53,7 +53,7 @@ author_profile: true
 
 - Conducted a systematic investigation of **key hyperparameters** in **Deep Q-Network (DQN)** variants to optimize performance.  
 
-<embed src="/files/AIB_Report.pdf" width="500" height="375" type="application/pdf">
+<embed src="/ellalee.github.io/files/AIB_Report.pdf" width="500" height="375" type="application/pdf">
 
 ---
 
@@ -72,4 +72,5 @@ author_profile: true
 
 - Analyzed **energy functions**, **dynamic programming**, and **expansion functionality** for content-aware image resizing using seam carving techniques.
 
-<embed src="/files/Seamcarving.pdf" width="500" height="375" type="application/pdf">
+<embed src="/ellalee.github.io/files/Seamcarving.pdf" width="500" height="375" type="application/pdf">
+
