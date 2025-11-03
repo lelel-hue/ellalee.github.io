@@ -9,18 +9,24 @@ redirect_from:
 
 ## Introduction
 
-I'm now an undergraduate student at Southern University of Science and Technology, majoring in Data Science. My undergraduate research direction is Computer Vision, and Time Series Analysis. 
+I'm now a final-year undergraduate majoring in Data Science at the Southern University of Science and Technology (SUSTech, Shenzhen, China). Throughout my undergraduate studies, I have engaged in various projects, particularly in large language models (LLMs), interdisciplinary AI, and multimodal learning.
 As a passionate person, I am sunny and cheerful, have done many volunteer services, and have strong leadership skills. I devote wholeheartedly to my field of interest, and have good enthusiasm and passion.
 
-![Me at talk](/ellalee.github.io/images/givingatalk.jpg "Me giving talk")
+<p align="center">
+  <img src="/ellalee.github.io/images/givingatalk.jpg" alt="Me giving talk" title="Me giving talk" width="60%">
+</p>
 
 Me giving talk
 
-![Me giving presentation](/ellalee.github.io/images/givingapresentation.jpg "Me giving presentation")
+<p align="center">
+  <img src="/ellalee.github.io/images/givingapresentation.jpg" alt="Me giving presentation" title="Me giving presentation" width="60%">
+</p>
 
 Me giving presentation
 
-![Me at Conference](/ellalee.github.io/images/withwolunteers.jpg "Me with friends")
+<p align="center">
+  <img src="/ellalee.github.io/images/withwolunteers.jpg" alt="Me with friends" title="Me with friends" width="60%">
+</p>
 
 Me with Friends
 
@@ -30,7 +36,7 @@ Me with Friends
 *Southern University of Science and Technology, Shenzhen, Guangdong*  
 *Sept. 2022 - Present*
 
-> Overall GPA: 3.78/4.0 (3.85 in Last Semester)
+> Overall GPA: 3.77/4.0 (3.85 in Last Semester)
 > 
 > Weighted Avg. Score: 94.5/100
 > 
@@ -41,7 +47,12 @@ Me with Friends
 > - Probability Theory*
 > - Mathematical Statistics*
 > - Mathematical Analysis Essentials
-> - *Operations Research and Optimization*
+> - Operations Research and Optimization*
+> - Advanced Natural Language Processing*
+> - Distributed Storage and Parallel Computing*
+> - Bayesian Statistics*
+> - Statistical Leaming*
+> - Big Data Analysis Software and Application*
 > - Statistical Linear Models
 > - Multivariable Statistics
 > - Computer Programming Design
@@ -68,6 +79,7 @@ Me with Friends
 - Focused on Science in High School
 - Outstanding Student Award for Three Consecutive Years
 - Leader of School String Orchestra
+
 
 
 
