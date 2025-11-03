@@ -12,7 +12,7 @@ author_profile: true
 # 367 h
 
 Engaged in diverse volunteer activities, including sports events, academic conferences, competitions, and caring for vulnerable groups.
-![Group Photo](/ellalee.github.io/images/presentation.jpg)
+![Group Photo](/images/presentation.jpg)
 Showcasing excellent volunteer service projects on stage
 
 ---
@@ -25,7 +25,7 @@ As the project leader of the "Glimmer in SUSTech" First Aid Knowledge Outreach P
 
 Within the campus of Southern University of Science and Technology (SUSTech), we conducted over 30 sessions, reaching a total of more than 4,800 individuals. Our training sessions covered the entire freshman population over three years, earning widespread acclaim. Additionally, we recruited over 600 students, empowering them to serve as the first responders for medical emergencies on campus.
 
-![Group Photo](/ellalee.github.io/images/group.jpg)
+![Group Photo](/images/group.jpg)
 Group photo of the organization
 
 Beyond the university borders, we extended our outreach to ten local communities, including BaoShiZhou East Community and LongGuang Community in Shenzhen. Here, we provided vital first aid knowledge training to approximately 220 residents. Our commitment to delivering thorough and responsible training garnered encouragement and praise from the community members.
@@ -40,8 +40,9 @@ Beyond the university borders, we extended our outreach to ten local communities
 - Effectively managed diverse situations, including suspected cases of epilepsy, fractures, trauma, heatstroke, hyperventilation, and snake bites.
 - Honored with 'SUSTech Emergency Rescue Model' for outstanding contributions, twice.
 
-![Group Photo](/ellalee.github.io/images/four.png)
+![Group Photo](ellalee.github.io/images/four.png)
 My experience
+
 
 
 
