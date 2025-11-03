@@ -9,11 +9,13 @@ author_profile: true
 
 ## Total Volunteer Service Hours (2020 till now)
 
-# 367 h
+# 428.5 h
 
 Engaged in diverse volunteer activities, including sports events, academic conferences, competitions, and caring for vulnerable groups.
-![Group Photo](/ellalee.github.io/images/presentation.jpg)
-Showcasing excellent volunteer service projects on stage
+<p align="center">
+  <img src="/ellalee.github.io/images/presentation.jpg" alt="Group Photo" title="Group Photo" width="70%">
+</p>
+<p align="center"><strong>Showcasing excellent volunteer service projects on stage</strong></p>
 
 ---
 
@@ -25,8 +27,10 @@ As the project leader of the "Glimmer in SUSTech" First Aid Knowledge Outreach P
 
 Within the campus of Southern University of Science and Technology (SUSTech), we conducted over 30 sessions, reaching a total of more than 4,800 individuals. Our training sessions covered the entire freshman population over three years, earning widespread acclaim. Additionally, we recruited over 600 students, empowering them to serve as the first responders for medical emergencies on campus.
 
-![Group Photo](/ellalee.github.io/images/group.jpg)
-Group photo of the organization
+<p align="center">
+  <img src="/ellalee.github.io/images/group.jpg" alt="Group Photo" title="Group Photo" width="70%">
+</p>
+<p align="center"><strong>Group photo of the organization</strong></p>
 
 Beyond the university borders, we extended our outreach to ten local communities, including BaoShiZhou East Community and LongGuang Community in Shenzhen. Here, we provided vital first aid knowledge training to approximately 220 residents. Our commitment to delivering thorough and responsible training garnered encouragement and praise from the community members.
 
@@ -41,7 +45,8 @@ Beyond the university borders, we extended our outreach to ten local communities
 - Honored with 'SUSTech Emergency Rescue Model' for outstanding contributions, twice.
 
 ![Group Photo](/ellalee.github.io/images/four.png)
-My experience
+<p align="center"><strong>My experience</strong></p>
+
 
 
 
