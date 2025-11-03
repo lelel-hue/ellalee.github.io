@@ -11,6 +11,7 @@ author_profile: true
 ## A Text-to-SQL Fine-tuning and Interactive Query System
 
 **Jun. 2025 - Jul. 2025**
+
 *With Prof. Guanhua Chen*
 
 - Processed SynSQL-2.5M, extracting 20K samples and filtering by SQL complexity, CoT density, and diversity.
@@ -88,4 +89,5 @@ author_profile: true
 <div align="center">
 <embed src="/ellalee.github.io/files/Seamcarving.pdf" width="500" height="375" type="application/pdf">
 </div>
+
 
