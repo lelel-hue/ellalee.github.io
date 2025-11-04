@@ -30,7 +30,7 @@ main:
   #   url: /cv/
     
   - title: "CV"
-    url: /_data/CV_LiSiqing.pdf
+    url: /CV_LiSiqing.pdf
     
   # - title: "Guide"
   #   url: /markdown/
