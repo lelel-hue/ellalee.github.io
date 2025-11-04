@@ -13,7 +13,7 @@ author_profile: true
 
 Engaged in diverse volunteer activities, including sports events, academic conferences, competitions, and caring for vulnerable groups.
 <p align="center">
-  <img src="/ellalee.github.io/images/presentation.jpg" alt="Group Photo" title="Group Photo" width="70%">
+  <img src="/ellalee.github.io/images/pre.jpg" alt="Group Photo" title="Group Photo" width="95%">
 </p>
 <p align="center"><strong>Showcasing excellent volunteer service projects on stage</strong></p>
 
@@ -44,9 +44,10 @@ Beyond the university borders, we extended our outreach to ten local communities
 - Effectively managed diverse situations, including suspected cases of epilepsy, fractures, trauma, heatstroke, hyperventilation, and snake bites.
 - Honored with 'SUSTech Emergency Rescue Model' for outstanding contributions, twice.
 
-![Group Photo](/ellalee.github.io/images/four.png)
+<p align="center">
+  <img src="/ellalee.github.io/images/four.png" alt="Group Photo" title="Group Photo" width="95%">
+</p>
 <p align="center"><strong>My experience</strong></p>
-
 
 
 
