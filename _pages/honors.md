@@ -13,7 +13,9 @@ author_profile: true
 
 ## Scholarships
 
-- **2024 Outstanding Student Leader Model Mention** (Top 2%)
+- **2025 First Prize Scholarship of University** (Top 3%)
+- **2025 Guo Xie Birong Scholarship** (Top 2%)
+- **2024/2025 Outstanding Student Leader Model Mention** (Top 2%, twice) 
 - **2023/2024 Second Prize Scholarship of University** (Top 8%, twice)
 
 ## Competitions
@@ -49,3 +51,4 @@ author_profile: true
 - **2024 University Arts Festival Choir Competition** – First Place (Champion)
 - **2023 Undergraduate Women's Jump Rope Competition** – First Place (Champion)
 - **2017 Social Arts Level Examination - Violin Level 9** 
+
