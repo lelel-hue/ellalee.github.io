@@ -13,7 +13,7 @@ author_profile: true
 
 Engaged in diverse volunteer activities, including sports events, academic conferences, competitions, and caring for vulnerable groups.
 <p align="center">
-  <img src="/ellalee.github.io/images/pre.jpg" alt="Group Photo" title="Group Photo" width="95%">
+  <img src="/ellalee.github.io/images/pre.png" alt="Group Photo" title="Group Photo" width="95%">
 </p>
 <p align="center"><strong>Showcasing excellent volunteer service projects on stage</strong></p>
 
@@ -48,6 +48,7 @@ Beyond the university borders, we extended our outreach to ten local communities
   <img src="/ellalee.github.io/images/four.png" alt="Group Photo" title="Group Photo" width="95%">
 </p>
 <p align="center"><strong>My experience</strong></p>
+
 
 
 
