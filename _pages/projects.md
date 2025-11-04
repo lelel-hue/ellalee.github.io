@@ -87,7 +87,8 @@ author_profile: true
 - Analyzed **energy functions**, **dynamic programming**, and **expansion functionality** for content-aware image resizing using seam carving techniques.
 
 <div align="center">
-<embed src="/ellalee.github.io/files/Seamcarving.pdf" width="500" height="375" type="application/pdf">
+<embed src="/ellalee.github.io/files/Seamcarving.pdf" width="700" height="400" type="application/pdf">
 </div>
+
 
 
