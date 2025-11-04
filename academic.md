@@ -5,6 +5,9 @@ permalink: /academic/
 author_profile: true
 ---
 {% include base_path %}
+My undergraduate experience was profoundly shaped by my engagement in scientific research. Although my research interests have been varied, encompassing Large Language Models, AI for Science Applications, and Multimodal Learning, they share a singular, guiding motivation: the potential to benefit humanity. 
+
+I found great fulfillment in applying my coursework to real-world research problems, a pursuit that encouraged me to experiment with different scientific directions and learn the art of effective collaboration. Having built this broad foundation, I now aspire to channel my focus into a specialized field, dedicating myself to in-depth inquiry and pushing the frontiers of knowledge. To me, research is a perpetual cycle of learning, internalizing, and pushing boundaries. While I know the path will have its obstacles, my commitment to this journey of discovery is unwavering.
 
 ## 🔬 **Current Research**
 
@@ -57,4 +60,5 @@ author_profile: true
 - Contributed to all aspects of the study, including data verification, statistical analysis, model implementation, manuscript preparation, and visualization of results.  
 
 ---
+
 
